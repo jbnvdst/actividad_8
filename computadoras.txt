@@ -1,0 +1,3 @@
+Sistema Operativo	Memoria Ram	Memoria Interna	Marca
+Windows			8 GB		1TB		DELL
+MACINTOSH		12GB		4TB		Apple
