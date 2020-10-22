@@ -11,6 +11,8 @@ public:
     Laboratorio();
     void agregarComputadora(const computadora &z);
     void mostrar();
+    void respaldar_tabla();
+    void recuperar();
 
     friend Laboratorio& operator<<(Laboratorio &a, const computadora &z)
     {
